@@ -41,6 +41,5 @@ npm start
 ```
 
 ## Folders
-- frontend: contains all frontend material
   - public: houses index.js
   - src: contains javascript files and corresponding stylesheets used to build the site pages (organized by page/component)
